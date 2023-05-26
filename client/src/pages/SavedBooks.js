@@ -13,6 +13,8 @@ const SavedBooks = () => {
 
   const userData = data?.me || {};
 
+  // const userData = {};
+
   console.log(loading)
   console.log(data)
   console.log(userData)
