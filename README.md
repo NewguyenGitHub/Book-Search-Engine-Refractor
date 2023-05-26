@@ -70,9 +70,6 @@ This is a book search engine that allows users to signup and/or login to save th
 
 ![Book-Search-Engine-See-Your-Books](assets/demo/Book-Search-Engine-See-Your-Books.JPG)
 
-![Book-Search-Engine-Main](assets/demo)
-
-
 ## Credits
 
 N/A
